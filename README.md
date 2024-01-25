@@ -1,9 +1,10 @@
-<h1 align="center">Hola 👋  soy Diego ✨ </h1> 
+<h1 align="center">Hi, 👋 I'm Diego ✨ </h1> 
 
 <p align="center">
-<a href="https://linkedin.com/in/diegoalvarezh" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "mailto:diegoah905@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
-
+  
+<a href="https://linkedin.com/in/diegoalvarezh" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="diegoalvarezh"/></a>
+<a href = "mailto:diegoah905@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@diegoalvarezh"  /></a>
+<a href = "https://twitter.com/DiegoAlvarezH_" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@diegoalvarezh"  /></a>
 </p>
 
 <br>
@@ -27,7 +28,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,anaconda,azure,bash,bootstrap,css,devto,discord,django,docker,express,figma,firebase,gatsby,git,github,gherkin,heroku,html,js,materialui,mysql,nextjs,nodejs,postgres,postman,powershell,prisma,react,selenium,sequelize,tailwind,tensorflow,ts,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=aws,anaconda,azure,bash,bootstrap,css,devto,discord,django,docker,express,figma,firebase,gatsby,git,github,gherkin,heroku,html,js,materialui,mysql,nextjs,nodejs,postgres,postman,powershell,prisma,react,selenium,sequelize,tailwind,tensorflow,ts,vscode,sass&perline=12" />
   </a>
 </p>
 <br>
