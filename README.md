@@ -24,7 +24,7 @@
 <!--Intro end-->
   </p>
 <br>
-## <h2>Technologies Stack👨🏻‍💻</h2>
+<h2>Technologies Stack👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -34,8 +34,8 @@
 <br>
 <!-------------------------->
 <!--github stats-->
-## ⚙️ GitHub Stats ⚙️
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" alt="DiegoAlvarezH" /></p>
+<h2> GitHub Stats ⚙️ </h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoAlvarezH&layout=donut" alt="DiegoAlvarezH" /></p>
 
 
 Colombian parrots
