@@ -38,26 +38,15 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoAlvarezH" alt="DiegoAlvarezH" /></p>
 
 
-<h3>Colombian parrots 🦜</h3>
+<h2>Colombian parrots 🦜</h2>
 <div>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/colombiaparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/colombiaparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/colombiaparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/colombiaparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/colombiaparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/colombiaparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/colombiaparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/colombiaparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/colombiaparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/colombiaparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/colombiaparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/colombiaparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/colombiaparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/colombiaparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/colombiaparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/colombiaparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/colombiaparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/colombiaparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/colombiaparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
 </div>
 
