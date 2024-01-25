@@ -27,7 +27,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=aws,anaconda,azure,bash,bootstrap,css,devto,discord,django,docker,express,figma,firebase,gatsby,git,github,gherkin,heroku,html,js,materialui,mysql,nextjs,nodejs,postgres,postman,powershell,prisma,react,selenium,sequelize,tailwind,tensorflow,ts,vscode&perline=12" />
   </a>
 </p>
 <br>
