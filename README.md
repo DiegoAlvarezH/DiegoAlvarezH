@@ -194,29 +194,6 @@
 <img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
 <img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
 <img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/><img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30" height="30"/>
 
 </div>
 
